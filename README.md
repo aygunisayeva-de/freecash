@@ -1,4 +1,4 @@
-# Selenium Automation Script for FreeCash Login
+# Simple selenium Automation Script for FreeCash Login
 
 This script automates the process of interacting with the login modal on the [FreeCash](https://freecash.com/de) website. It uses **Selenium WebDriver** to navigate the website, handle cookie consent, fill in login credentials, and click the submit button in the login modal.
 
